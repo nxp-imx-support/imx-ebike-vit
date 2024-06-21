@@ -1,0 +1,1 @@
+GEN_CSRCS += lv_font_montserratMedium_32.c lv_font_simsun_32.c lv_font_montserratMedium_53.c lv_font_simsun_53.c lv_font_montserratMedium_74.c lv_font_simsun_74.c lv_font_montserratMedium_112.c lv_font_simsun_112.c lv_font_simsun_42.c lv_font_montserratMedium_12.c lv_font_montserratMedium_42.c
