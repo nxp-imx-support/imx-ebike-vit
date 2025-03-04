@@ -20,7 +20,7 @@ if __name__ == "__main__":
 
     elif sys.argv[2] == '3':
         if os.system("ps -a | grep \"ebike-vit-gui\" ") != 0:
-            os.system("/opt/gopoint-apps/scripts/multimedia/ebike-vit-gui/ebike-vit-gui & ")
+            os.system("/opt/gopoint-apps/scripts/multimedia/ebike-vit/ebike-vit-gui & ")
     else:
         mq.send(params)
 
