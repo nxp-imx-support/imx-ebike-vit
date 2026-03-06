@@ -5,7 +5,7 @@
 [![Board badge](https://img.shields.io/badge/Board-i.MX_8M_Mini_EVK-blue)](https://www.nxp.com/products/processors-and-microcontrollers/arm-processors/i-mx-applications-processors/i-mx-8-applications-processors/i-mx-8m-mini-arm-cortex-a53-cortex-m4-audio-voice-video:i.MX8MMINI) [![Board badge](https://img.shields.io/badge/Board-i.MX_93_EVK-blue)](https://www.nxp.com/products/processors-and-microcontrollers/arm-processors/i-mx-applications-processors/i-mx-9-processors/i-mx-93-applications-processor-family-arm-cortex-a55-ml-acceleration-power-efficient-mpu:i.MX93)
 ![Language badge](https://img.shields.io/badge/Language-C-yellow) ![Category badge](https://img.shields.io/badge/Category-Multimedia-green)
 
-[*i.MX E-Bike VIT*](https://github.com/nxp-imx-support/ebike-vit) showcases the *Multimedia* capabilities of i.MX to emulate an interactive ebike through a GUI controlled by voice commands. The GUI is
+[*i.MX E-Bike VIT*](https://github.com/nxp-imx-support/imx-ebike-vit) showcases the *Multimedia* capabilities of i.MX to emulate an interactive ebike through a GUI controlled by voice commands. The GUI is
 based on LVGL ([Little Versatile Graphic Library](https://lvgl.io/)) and NXP's [Voice Intelligent Technology](https://www.nxp.com/design/design-center/software/embedded-software/voice-intelligent-technology-wake-word-and-voice-command-engines:VOICE-INTELLIGENT-TECHNOLOGY) (VIT) supports the voice commands.
 
 ## Implementation using VIT and LVGL
